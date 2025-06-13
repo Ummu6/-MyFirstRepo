@@ -1,1 +1,6 @@
 I have learnt how to clone and collaborate with contributors
+I have learned how to create and manage Git repositories.
+I now understand how to use branches to organize my work.
+I learned how to make commits and track changes to my code.
+I can now create pull requests and collaborate with others.
+This course has made me more confident using github and git
